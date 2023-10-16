@@ -655,3 +655,4 @@ Strings are super important because they help us work with text in our programs.
 So, whenever you're dealing with text in Java, remember that a String is your friend!
 
 ---
+
